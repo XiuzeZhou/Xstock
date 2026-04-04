@@ -7,7 +7,7 @@
 **Xstock** is a 15-year longitudinal benchmark (2011–2025) designed to connect Business-to-Business (B2B) social media discourse with institutional financial performance. By merging **220,000 corporate tweets** with granular **SEC 10-K revenue segment filings**, this project provides a robust framework for **Explainable AI (XAI)** in quantitative finance.
 
 <p align="center">
-<img src="figures/xstock_log.png" width="100">
+<img src="figures/xstock_log.png" width="300">
 </p>
 
 ---
