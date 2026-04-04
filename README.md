@@ -23,13 +23,13 @@
 
 ```bash
 .
-├── data/                                 # Data downloaded from https://huggingface.co/datasets/Xiuze/Xstock
-├── Macro-Level Correlation.ipynb         # Revenue Growth vs. Stock Growth
-├── Segment Contribution.ipynb            # Alignment between segment contributions and their YoY growth
-├── Strategic Buffering.ipynb             # Strategic Narrative Buffering
-├── Industry-Aware Classification.ipynb   # Classification task for tweets
-├── CoT_Stock.ipynb                       # Normal, CoT, and Q-CoT implementations
-├── requirements.txt                      # Dependency list
+├── data/                               # Data downloaded from https://huggingface.co/datasets/Xiuze/Xstock
+├── Macro-Level Correlation.ipynb       # Revenue Growth vs. Stock Growth
+├── Segment Contribution.ipynb          # Alignment between segment contributions and their YoY growth
+├── Strategic Buffering.ipynb           # Strategic Narrative Buffering
+├── Industry-Aware Classification.ipynb # Classification task for tweets
+├── CoT_Stock.ipynb                     # Normal, CoT, and Q-CoT implementations
+├── requirements.txt                    # Dependency list
 └── README.md
 ```
 
