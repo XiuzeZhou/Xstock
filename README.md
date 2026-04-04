@@ -8,6 +8,7 @@
 <p align="center">
 <img src="figures/xstock_log.png" width="200">
 </p>
+
 ---
 
 ## 🌟 Key Innovations
