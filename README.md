@@ -23,12 +23,13 @@
 
 ```bash
 .
-├── data/                   # Data downloaded from https://huggingface.co/datasets/Xiuze/Xstock
-├── experiments/            # Core reasoning pipelines
-│   ├── run_experiment.py   # Main execution script for all modes
-│   └── prompt_templates.py # Normal, CoT, and Q-CoT implementations
-├── analysis/               # Statistical notebooks (r-value & sentiment plots)
-├── requirements.txt        # Dependency list
+├── data/                                 # Data downloaded from https://huggingface.co/datasets/Xiuze/Xstock
+├── Macro-Level Correlation.ipynb         # Revenue Growth vs. Stock Growth
+├── Segment Contribution.ipynb            # Alignment between segment contributions and their YoY growth
+├── Strategic Buffering.ipynb             # Strategic Narrative Buffering
+├── Industry-Aware Classification.ipynb   # Classification task for tweets
+├── CoT_Stock.ipynb                       # Normal, CoT, and Q-CoT implementations
+├── requirements.txt                      # Dependency list
 └── README.md
 ```
 
@@ -41,10 +42,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Run Experiments
-You can replicate our results by running the experiment in Q-CoT mode:
-```python
-
-```
+You can replicate our results by running .ipynb files.
 
 ## 📊 Dataset Access
 The full dataset is available on Hugging Face: [Xiuze/Xstock](https://huggingface.co/datasets/Xiuze/Xstock).
