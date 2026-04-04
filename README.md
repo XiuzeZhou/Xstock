@@ -23,11 +23,10 @@
 
 ```bash
 .
-├── data/                   # Data loading and SEC 10-K parsing scripts
+├── data/                   # Data downloaded from https://huggingface.co/datasets/Xiuze/Xstock
 ├── experiments/            # Core reasoning pipelines
 │   ├── run_experiment.py   # Main execution script for all modes
 │   └── prompt_templates.py # Normal, CoT, and Q-CoT implementations
-├── models/                 # LLM API wrappers (GPT-4o, Gemini 2.5, Qwen)
 ├── analysis/               # Statistical notebooks (r-value & sentiment plots)
 ├── requirements.txt        # Dependency list
 └── README.md
@@ -36,7 +35,7 @@
 ## 🚀 Getting Started
 ### 1. Installation
 ```bash
-git clone [https://github.com/Xiuze/Xstock.git](https://github.com/Xiuze/Xstock.git)
+git clone https://github.com/Xiuze/Xstock.git
 cd Xstock
 pip install -r requirements.txt
 ```
