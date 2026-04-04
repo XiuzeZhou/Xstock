@@ -1,5 +1,4 @@
 # Xstock
-Xstock: A 15-Year Longitudinal Dataset Bridging Social Media and B2B Financials for Explainable Stock Forecasting
 
 [![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-blue)](https://huggingface.co/datasets/Xiuze/Xstock)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
