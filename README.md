@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Run Experiments
-You can replicate our results by running .ipynb files.
+You can replicate our results by running `.ipynb` files.
 
 ## 📊 Dataset Access
 The full dataset is available on Hugging Face: [Xiuze/Xstock](https://huggingface.co/datasets/Xiuze/Xstock).
