@@ -23,7 +23,7 @@
 
 ```bash
 .
-├── data/                               # Data downloaded from https://huggingface.co/datasets/Xiuze/Xstock
+├── data/                               # Data downloaded from huggingface
 ├── Macro-Level Correlation.ipynb       # Revenue Growth vs. Stock Growth
 ├── Segment Contribution.ipynb          # Alignment between segment contributions and their YoY growth
 ├── Strategic Buffering.ipynb           # Strategic Narrative Buffering
