@@ -36,7 +36,7 @@
 ## 🚀 Getting Started
 ### 1. Installation
 ```bash
-git clone https://github.com/Xiuze/Xstock.git
+git clone
 cd Xstock
 pip install -r requirements.txt
 ```
@@ -45,10 +45,10 @@ pip install -r requirements.txt
 You can replicate our results by running `.ipynb` files.
 
 ## 📊 Dataset Access
-The full dataset is available on Hugging Face: [Xiuze/Xstock](https://huggingface.co/datasets/Xiuze/Xstock).
+The full dataset is available on **Anonymous** Hugging Face: [Xstock](https://huggingface.co/datasets/Xiuze/Xstock).
 ```python
 from datasets import load_dataset
-dataset = load_dataset("Xiuze/Xstock")
+dataset = load_dataset("Xstock")
 ```
 
 ## 📖 Citation
