@@ -1,6 +1,6 @@
 # Xstock
 
-[![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-blue)](https://huggingface.co/datasets/Xiuze/Xstock)
+[![Hugging Face Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-blue)](https://huggingface.co/datasets/)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
@@ -45,7 +45,7 @@ pip install -r requirements.txt
 You can replicate our results by running `.ipynb` files.
 
 ## 📊 Dataset Access
-The full dataset is available on **Anonymous** Hugging Face: [Xstock](https://huggingface.co/datasets/Xiuze/Xstock).
+The full dataset is available on **Supplementary Material** of the submission system.
 ```python
 from datasets import load_dataset
 dataset = load_dataset("Xstock")
